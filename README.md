@@ -1,3 +1,4 @@
+
 # **_E-commerce Back End_**
 
 ## **_Table of contents_**
@@ -20,8 +21,10 @@ Project is created using:
 * dotenv
 
 ## **_Usage_**
-Final app should look something like this:
--->
+https://user-images.githubusercontent.com/78329298/118604538-2334a080-b76a-11eb-9a17-745c3ac2a116.mov
+
+https://user-images.githubusercontent.com/78329298/118605266-ec12bf00-b76a-11eb-8c4c-310a18039bb2.mov
+
 
 ## **_Installation_**
 Here are some guidelines for installing the project on your local machine in order to be able to try it: 
