@@ -35,7 +35,7 @@ Here are some guidelines for installing the project on your local machine in ord
 
 3. Run ```npm i``` or ```npm install``` in order to download all the dependencies.
 
-4. Run ```node server.js``` or ```node server``` in your terminal to launch the application.
+4. Run ```node server.js``` or ```node server``` in your terminal to launch the application, and try it on [Insomnia](https://insomnia.rest/).
 
 5. Enjoy and don't hesitate to contribute! 🙂
 
